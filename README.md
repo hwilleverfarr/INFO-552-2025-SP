@@ -1,2 +1,2 @@
-<p>My favorite GitHub Digital Preservation repo: [NYPL digpres](https://www.dpconline.org/digipres/what-is-digipres)</p> 
-My favorite GitHub Digital Project repo: [Honoring the Fallen: An Interactive Memorial Map] (https://github.com/FalveyDigitalScholarship/honoringthefallen) 
+<p>My favorite GitHub Digital Preservation repo: <a href=https://github.com/NYPL/digpres>NYPL digpres<a></a></p> 
+My favorite GitHub Digital Project repo: <a href=https://github.com/FalveyDigitalScholarship/honoringthefallen>Honoring the Fallen: An Interactive Memorial Map</a> 
